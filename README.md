@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irinella!</h1>
-<h3 align="center">A former lawyer turned frontend developer who fell in love with UI-UX Design and animations.</h3>
+<h3 align="center">A former lawyer turned into a frontend developer who fell in love with UI-UX Design and animations.</h3>
 </br>
 </br>
 <p align="left"> <a href="https://twitter.com/3bonobo" target="blank"><img src="https://img.shields.io/twitter/follow/3bonobo?logo=twitter&style=for-the-badge" alt="3bonobo" /></a> </p>
