@@ -14,7 +14,7 @@
  
 </p>
 </br>
-<img align="center" src="https://www.codewars.com/users/3vilBonobo/badges/small" alt="codewars badge" height="130" width="400"/>
+<a href="https://www.codewars.com/users/3vilBonobo" <img align="center" src="https://www.codewars.com/users/3vilBonobo/badges/small" alt="codewars badge" height="110 width="380"/></a>
 </br>
 <h3 align="left">Languages and Tools:</h3>
 </br>
