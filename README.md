@@ -11,8 +11,10 @@
 <a href="https://twitter.com/3bonobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bonobo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/irinella-boutsika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irinella-boutsika" height="30" width="40" /></a>
 <a href="https://instagram.com/irinella_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irinella_b" height="30" width="40" /></a>
+ 
 </p>
 </br>
+<a href="https://www.codewars.com/users/3vilBonobo" target="blank"><img align="center" src=" https://www.codewars.com/users/3vilBonobo/badges/small" alt="codewars badge" h /></a>
 </br>
 <h3 align="left">Languages and Tools:</h3>
 </br>
