@@ -14,7 +14,8 @@
  
 </p>
 </br>
-<a href="https://www.codewars.com/users/3vilBonobo"> <img align="center" src="https://www.codewars.com/users/3vilBonobo/badges/micro" alt="codewars badge" height="30 width="50"/></a>
+
+<p><h3>My Codewars Ranking: </h3><a href="https://www.codewars.com/users/3vilBonobo"> <img align="center" src="https://www.codewars.com/users/3vilBonobo/badges/micro" alt="codewars badge" height="30 width="50"/></a></p>
 </br>
 <h3 align="left">Languages and Tools:</h3>
 </br>
