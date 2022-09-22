@@ -2,7 +2,7 @@
 <h3 align="center">A former lawyer turned into a frontend developer who fell in love with UI-UX Design and animations.</h3>
 </br>
 </br>
-<p align="left"> <a href="https://twitter.com/Irinella_b" target="blank"><img src="https://img.shields.io/twitter/follow/3bonobo?logo=twitter&style=for-the-badge" alt="3bonobo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Irinella_b" target="blank"><img src="https://img.shields.io/twitter/follow/Irinella_b?logo=twitter&style=for-the-badge" alt="Irinella_b" /></a> </p>
 </br>
 <h3 align="left">Connect with me:</h3>
 </br>
