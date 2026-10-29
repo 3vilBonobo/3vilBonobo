@@ -1,39 +1,32 @@
 <!--
-  Irinella B. | Creative frontend developer
-  Upload ALL files in this package to the root of 3vilBonobo/3vilBonobo.
-  Decorative graphics use <picture> to avoid GitHub's automatic image links.
-  The city GIF uses gentle motion, while hero.svg remains a high-quality fallback.
+  Irinella B. | Profile README
+  Keep README.md and the ib-*.png files in the repository ROOT.
+  The visual panels are decorative; only Codewars and each individual social button are linked.
+  No animations, scripts, CSS, or image maps required.
 -->
 
 <p align="center">
-  <picture>
-    <source srcset="./hero-motion.gif" type="image/gif" />
-    <img src="./hero.svg" alt="Irinella B. — Creative frontend developer, with a cyberpunk city, code, and a late-night workspace." width="100%" />
-  </picture>
+  <picture><img src="./ib-hero.png" alt="Irinella B. — Creative Frontend Developer. A dark cyberpunk city, a laptop displaying code and a cat by the window." width="100%" /></picture>
 </p>
 
-<p align="center">
-  <strong>Frontend developer building robust, data-driven applications with thoughtful UX and a creative edge.</strong>
-</p>
-
-<!-- These are the real functional social links. The buttons drawn in the banner are decorative. -->
-<p align="center">
-  <a href="https://linkedin.com/in/irinella-boutsika"><img src="https://img.shields.io/badge/LinkedIn-101827?style=for-the-badge&logo=linkedin&logoColor=76dfff" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://codepen.io/irinella_b"><img src="https://img.shields.io/badge/CodePen-101827?style=for-the-badge&logo=codepen&logoColor=dcc8ff" alt="CodePen" /></a>&nbsp;
-  <a href="https://twitter.com/Irinella_b"><img src="https://img.shields.io/badge/X-101827?style=for-the-badge&logo=x&logoColor=76dfff" alt="X / Twitter" /></a>&nbsp;
-  <a href="https://instagram.com/irinella_b"><img src="https://img.shields.io/badge/Instagram-101827?style=for-the-badge&logo=instagram&logoColor=ec86d8" alt="Instagram" /></a>
-</p>
-
-<!-- Codewars is deliberately linked to the actual Codewars profile. -->
-<p align="center">
-  <a href="https://www.codewars.com/users/3vilBonobo" title="Open my Codewars profile"><img src="./codewars.svg" width="46%" alt="Codewars — 3vilBonobo (link to profile)" /></a>&nbsp;
-  <picture>
-    <img src="./focus.svg" width="52%" alt="Current focus: interfaces, motion, systems and UI logic" />
-  </picture>
-</p>
+<table width="100%">
+  <tr>
+    <td width="53%" valign="top" align="center">
+      <picture><img src="./ib-codewars-header.png" width="100%" alt="Codewars" /></picture>
+      <a href="https://www.codewars.com/users/3vilBonobo" title="Visit 3vilBonobo on Codewars"><img src="./ib-codewars-button.png" width="88%" alt="Open my Codewars profile: 3vilBonobo" /></a>
+      <picture><img src="./ib-codewars-footer.png" width="100%" alt="Occasionally solving puzzles. Constantly collecting new rabbit holes." /></picture>
+    </td>
+    <td width="47%" valign="top" align="center">
+      <picture><img src="./ib-connect-header.png" width="100%" alt="Connect" /></picture>
+      <picture><img src="./ib-connect-radar.png" width="46%" align="right" alt="Decorative neon radar graphic" /></picture>
+      <a href="https://www.linkedin.com/in/irinella-boutsika/" title="LinkedIn"><img src="./ib-linkedin.png" width="48%" alt="LinkedIn" /></a><br />
+      <a href="https://codepen.io/irinella_b" title="CodePen"><img src="./ib-codepen.png" width="48%" alt="CodePen" /></a><br />
+      <a href="https://x.com/Irinella_b" title="X / Twitter"><img src="./ib-x.png" width="48%" alt="X / Twitter" /></a><br />
+      <a href="https://www.instagram.com/irinella_b/" title="Instagram"><img src="./ib-instagram.png" width="48%" alt="Instagram" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <picture>
-    <img src="./toolbox.svg" width="100%" alt="Toolbox: Angular, TypeScript, JavaScript, RxJS, NgRx, Signals, HTML, CSS, Tailwind, React, Figma, Photoshop, Illustrator, Framer Motion, GSAP, Sass, Git, GitHub, VS Code, Linux" />
-  </picture>
+  <picture><img src="./ib-toolbox.png" width="100%" alt="My toolbox: frontend, design and creative technology, and developer tools including Angular, TypeScript, JavaScript, RxJS, NgRx, Signals, HTML, CSS, Figma, Photoshop, Illustrator, Framer Motion, GSAP, Sass, Git, GitHub, VS Code, Tailwind, React, and Linux." /></picture>
 </p>
