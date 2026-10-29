@@ -1,51 +1,28 @@
-
-<!-- IRINELLA | Creative Frontend Developer -->
+<!--
+  Irinella B. / Creative Frontend Developer
+  Screenshot-approved visual composition. All SVGs live beside README.md in the repository ROOT.
+  Includes a tiny, optional SVG light pulse — no JavaScript.
+-->
 
 <p align="center">
-  <img src="./hero.svg" alt="Irinella — Creative Frontend Developer" width="100%" />
+  <img src="./hero.svg" alt="Irinella B. — creative frontend developer. Cyberpunk city workspace, Angular, TypeScript, creative coding, and social badges." width="100%" />
 </p>
 
-<div align="center">
-
-**Developer brain. Designer instincts. A soft spot for things that move.**
-
-I make interfaces that are intuitive, expressive, and fun to interact with.
-
-**Angular + TypeScript** are my home base. **UI/UX, creative coding, and animation** are where I happily lose track of time.
-
-<a href="https://linkedin.com/in/irinella-boutsika"><img src="https://img.shields.io/badge/LINKEDIN-151B2B?style=for-the-badge&logo=linkedin&logoColor=C5F86D" alt="LinkedIn" /></a>
-<a href="https://codepen.io/irinella_b"><img src="https://img.shields.io/badge/CODEPEN-151B2B?style=for-the-badge&logo=codepen&logoColor=79E7F3" alt="CodePen" /></a>
-<a href="https://twitter.com/Irinella_b"><img src="https://img.shields.io/badge/X_%2F_TWITTER-151B2B?style=for-the-badge&logo=x&logoColor=A78BFA" alt="X / Twitter" /></a>
-<a href="https://instagram.com/irinella_b"><img src="https://img.shields.io/badge/INSTAGRAM-151B2B?style=for-the-badge&logo=instagram&logoColor=FE779E" alt="Instagram" /></a>
-
-</div>
-
-<br />
-
+<!-- The two cards stay side by side without GitHub's default table borders. -->
 <p align="center">
-  <img src="./manifesto.svg" width="100%" alt="Thoughtful UI. Delightful details. A little bit of magic." />
+  <a href="https://www.codewars.com/users/3vilBonobo" title="See my live Codewars profile"><img src="./codewars.svg" alt="Codewars — 3vilBonobo. Click to see live ranking." width="46%" /></a>&nbsp;
+  <img src="./focus.svg" alt="Current focus: interfaces, motion, systems, UI logic." width="52%" />
 </p>
 
-<br />
-
 <p align="center">
-  <img src="./toolbox.svg" width="100%" alt="My developer and creative toolkit" />
+  <img src="./toolbox.svg" alt="My toolbox: Angular, TypeScript, JavaScript, RxJS, NgRx, Signals, HTML5, CSS3, Figma, Photoshop, Illustrator, Framer Motion, GSAP, Sass, Git, GitHub, VS Code, Tailwind, React, Linux." width="100%" />
 </p>
 
-<br />
-
-<div align="center">
-
-#### ⚔️ Little side quest: Codewars
-
-<a href="https://www.codewars.com/users/3vilBonobo"><img src="https://www.codewars.com/users/3vilBonobo/badges/large" alt="Live Codewars ranking" /></a>
-
-<sub>Occasionally solving puzzles. Constantly collecting new rabbit holes.</sub>
-
-</div>
-
-<br />
-
+<!-- The buttons shown in the hero artwork are decorative because GitHub cannot make
+     separate regions inside an SVG <img> clickable. These real links work. -->
 <p align="center">
-  <img src="./footer.svg" width="100%" alt="Stay curious. Make beautiful things. Break them. Learn. Make them better." />
+  <a href="https://linkedin.com/in/irinella-boutsika"><img src="https://img.shields.io/badge/LinkedIn-101827?style=flat-square&logo=linkedin&logoColor=76dfff" alt="LinkedIn" /></a>
+  <a href="https://codepen.io/irinella_b"><img src="https://img.shields.io/badge/CodePen-101827?style=flat-square&logo=codepen&logoColor=dcc8ff" alt="CodePen" /></a>
+  <a href="https://twitter.com/Irinella_b"><img src="https://img.shields.io/badge/X-101827?style=flat-square&logo=x&logoColor=76dfff" alt="X / Twitter" /></a>
+  <a href="https://instagram.com/irinella_b"><img src="https://img.shields.io/badge/Instagram-101827?style=flat-square&logo=instagram&logoColor=ec86d8" alt="Instagram" /></a>
 </p>
