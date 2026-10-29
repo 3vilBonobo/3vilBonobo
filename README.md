@@ -4,6 +4,7 @@
   The visual panels are decorative; only Codewars and each individual social button are linked.
   No animations, scripts, CSS, or image maps required.
 -->
+<div style="background-color: black;">
 
 <p align="center">
   <picture><img src="./ib-hero.png" alt="Irinella B. — Creative Frontend Developer. A dark cyberpunk city, a laptop displaying code and a cat by the window." width="100%" /></picture>
@@ -30,3 +31,4 @@
 <p align="center">
   <picture><img src="./ib-toolbox.png" width="100%" alt="My toolbox: frontend, design and creative technology, and developer tools including Angular, TypeScript, JavaScript, RxJS, NgRx, Signals, HTML, CSS, Figma, Photoshop, Illustrator, Framer Motion, GSAP, Sass, Git, GitHub, VS Code, Tailwind, React, and Linux." /></picture>
 </p>
+</div>
